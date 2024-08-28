@@ -1,7 +1,7 @@
 # Window Open Video Freeze WebUI
 
 ### Video Of Bug
-   ![Video](images/Windows_Open_Video_Tauri_Freeze.mov)
+   ![Video](images/WindowsOpenVideoTauriFreeze.gif)
 
 ### How to reproduce
 1. `npm install`
